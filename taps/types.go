@@ -32,7 +32,7 @@ const (
 	// TapsPerBridge Number of taps per bridge
 	TapsPerBridge = 1000
 	// NumBridges is the number of bridges for the TapManager
-	NumBridges = 2
+	NumBridges = 1
 )
 
 // TapManager A Tap Manager
